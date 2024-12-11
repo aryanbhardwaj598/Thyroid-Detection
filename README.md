@@ -1,4 +1,5 @@
-Thyroid Disease Detection using Multi-Layer Perceptron
+#Thyroid Disease Detection using Multi-Layer Perceptron
+
 Overview
 This project develops a thyroid disease detection system using a Multi-Layer Perceptron (MLP) neural network. The goal is to classify patients accurately as having thyroid disease or not based on features extracted from their medical records. Additionally, logistic regression serves as a baseline model for comparison.
 
